@@ -2,6 +2,7 @@
 
 <b>Title of the project:</b> PacMan Exercise <br>
 <b>Description of the project:</b> In this project, we created a pacman simulator where pacman alternates between the closed mouth and open mouth state. Upon hitting a wall, pacman reverses direction and continues to the opposite side until hitting another wall.<br>
+<b>How to Run:</b> Simply load the page and watch pac man move from one side of the screen to the other</b><br>
 <b>Roadmap of future improvements:</b> It would be cool to insert other objects for pacman to interact with. For example, we could create ghosts that move around the screen.  When pacman collides with a ghost, the player could be notified with a game over notifcation.
 
 License information: Copyright <2021> <MIT/Brendan Cusack>
